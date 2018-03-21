@@ -1,0 +1,52 @@
+html{
+	background-color: lightblue;
+}
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #333;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+}
+/*li a:hover:not(.active){   needs work
+	background-color: #111;
+}*/
+.active{
+	background-color: #4CAF50;
+}
+#dexter{
+	position: absolute;
+	width: 450px;
+	height: 300px;
+}
+#horse{
+	height: 400px;
+	width: 400px;
+	position: relative;
+	left: 700px;
+	bottom: 200px;
+	transform: rotate(90deg);
+}
+#fam{
+	height: 600px;
+	width: 600px;
+	transform: rotate(90deg);
+	position: relative;
+	bottom: -350px;
+	right: 370px;
+}
+#pup{
+	height: 350px;
+	width: 300px;
+	transform: rotate(90deg);
+	position: relative;
+	bottom: 100px;
+	left: 750px;
+}
