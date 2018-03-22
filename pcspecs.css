@@ -1,0 +1,34 @@
+html{
+	background-color: black;
+	border: solid #42f448;
+	padding-bottom: 150px;
+}
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #333;
+}
+.nav{
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+}
+h1{
+	font-style: italic;
+	color: grey;
+	text-align: center;
+	padding-top: 100px;
+}
+ol{
+	float: left;
+	list-style: square inside;
+	font-style: italic;
+	color: #42f448;
+	text-align: center;
+	padding-left: 20px;
+
+}
