@@ -47,6 +47,8 @@ strong{
 }
 #intro{
 	color:rgb(66, 244, 229);
+	text-align: center;
+	text-shadow: 2px 2px black;
 	text-indent: 5%;
 	font-style: italic;
 	font-size: 130%;
