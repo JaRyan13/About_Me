@@ -1,5 +1,9 @@
 @media screen and (max-width: 600px){}
 
+@media screen and (max-width: 450px){}
+
+@media screen and (max-width: 120px){}
+
 ul{
 	list-style-type: none;
 	margin: 0px;
